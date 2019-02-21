@@ -1,0 +1,3 @@
+[submodule "flutter-module-demo"]
+	path = flutter-module-demo
+	url = https://github.com/zakiso/flutter-module-demo.git
